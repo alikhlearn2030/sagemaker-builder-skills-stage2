@@ -1,4 +1,4 @@
-# SageMaker Builder Skills – Stage 2 (Titanic) | المرحلة 2 (تيتانيك)
+# SageMaker Builder Skills – Stage 2 (Titanic) 
 
 ## 🇸🇦 ماذا أنجزت؟
 قمت ببناء تدفق عمل ML عملي داخل **Amazon SageMaker Unified Studio** يشمل:
