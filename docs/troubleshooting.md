@@ -1,8 +1,5 @@
 
----
 
-`
-```md
 # Troubleshooting
 
 ## 1) Training channel name validation
