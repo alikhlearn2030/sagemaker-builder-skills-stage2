@@ -1,7 +1,7 @@
 
 ---
 
-## 4) محتوى جاهز لـ `docs/troubleshooting.md`
+`
 ```md
 # Troubleshooting
 
